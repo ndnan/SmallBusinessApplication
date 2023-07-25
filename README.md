@@ -1,0 +1,2 @@
+# SmallBusinessApplication
+In this repo, I will be developing an application which helps small businesses. This would be an one stop for everything for small business. Right now the technology, I'm gonna use is not yet decided.
